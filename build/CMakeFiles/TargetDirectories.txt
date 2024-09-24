@@ -1,0 +1,3 @@
+/home/suhodnkla/Trust/404Hello/build/CMakeFiles/404Hello.dir
+/home/suhodnkla/Trust/404Hello/build/CMakeFiles/edit_cache.dir
+/home/suhodnkla/Trust/404Hello/build/CMakeFiles/rebuild_cache.dir

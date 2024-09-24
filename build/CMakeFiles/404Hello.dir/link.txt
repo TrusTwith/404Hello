@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/404Hello.dir/main.c.o -o 404Hello 
